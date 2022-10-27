@@ -33,5 +33,6 @@ getAccountTransaction(id, offset)
 ```
 
 ### Run project
-``` To run the project go to command prompt and run 'node app.js' command.
+``` 
+To run the project go to command prompt and run 'node app.js' command.
 ```
