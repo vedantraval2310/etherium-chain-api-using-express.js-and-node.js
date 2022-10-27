@@ -1,0 +1,35 @@
+{
+  "name": "etherchain",
+  "version": "1.0.1",
+  "description": "nodejs API for Ethereum Blockchain",
+  "scripts": {
+    "test": "node app.js",
+    "start": "node app.js"
+  },
+  "keywords": [
+    "etherchain",
+    "ethereum blockchain",
+    "bitcoins",
+    "bitcoin"
+  ],
+  "author": {
+    "name": "Vedant Raval ",
+    "email": "vedant.k.raval@gmail.com",
+    "url": "http://github.com/Vedant2310"
+  },
+  "main": "etherchain.js",
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "bugs": {
+    "url": ""
+  },
+  "dependencies": {
+    "etherchain": "^1.0.1",
+    "express": "^4.13.3",
+    "promise": "^7.0.4",
+    "unirest": "^0.4.2"
+  },
+  "license": "Apache License"
+}
