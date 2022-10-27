@@ -1,5 +1,5 @@
 # etherchain-node
-Node JS api for the Ethereum blockchain
+Node JS api for the Ethereum blockchain to get all the blocks and transactions done under etherium.
 
 ### Installation
 
